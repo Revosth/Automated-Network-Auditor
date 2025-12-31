@@ -1,6 +1,7 @@
 """
 PROJECT: Automated Network Auditor (v2.0)
 PURPOSE: Performs automated TCP port discovery and logs open ports for security auditing.
+NETWORK LAYER: Operating at OSI Layer 4 (Transport) using TCP Handshake logic.
 """
 
 import socket
